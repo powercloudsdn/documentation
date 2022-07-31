@@ -16,7 +16,7 @@ And here's how we achieve it:
 ---
 
 ## Good Ecosystems
-At the time of writing this (July 2022) I think that our technology journey in many respects have evolved at a better pace than our actual product. Saying that is a bit frustrating, but if I look back to where we were two years ago then all the long hours seem worth it. When we started out we crafted API's in Php using CodeIgniter as a framework. It seemed like a good choice at the time as we had experience with it. I also had hundreds of hours of experience with Bootstrap and jQuery. So we set off to build a jQuery / NodeJS powered frontend that uses JWT stateless authentication. We got it working despite it being an unimaginable amount of work (writing an SPA using jQuery is not a good call!). We had some 50 MikroTik routers on our system, albeit far from perfect, we got some critical customer validation of the idea. About six months in to what is now known as the jQuery saga I met this guy [Nico](https://nicovanzyl.com/), I will forever be thankful that he came onboard for 6 months and helped us put together a better stack for the frontend app. We switched the frontend to Nuxt / VueJS / Vuetify. Personally I've never been very focussed on frontend, but once I got the opportunity to work on a modern PWA framework, and I compared it to our experience with jQuery I suddenly questioned all my life choices!
+At the time of writing this (July 2022) I think that our technology journey in many respects have evolved at a better pace than our actual product. Saying that is a bit frustrating, but if I look back to where we were two years ago then all the long hours seem worth it. When we started out we crafted API's in Php using CodeIgniter as a framework. It seemed like a good choice at the time as we had experience with it. I also had hundreds of hours of experience with Bootstrap and jQuery. So we set off to build a jQuery / NodeJS powered frontend that uses JWT stateless authentication. We got it working despite it being an unimaginable amount of work (writing an SPA using jQuery is not a good call!). We had some 50 MikroTik routers on our system, albeit far from perfect, we got some critical customer validation of the idea. About six months in to what is now known as the jQuery saga I met this guy [Nico](https://nicovanzyl.com/), I will forever be thankful that he came onboard for 6 months and helped us put together a better stack for the frontend app. We switched the frontend to Nuxt / VueJS / Vuetify. Personally I've never been very focussed on frontend, but once I got the opportunity to work on a modern PWA framework, and when I compared it to our experience with jQuery I suddenly questioned all my life choices!
 
 It was not long after this that we decided it's time to dump CodeIgniter 3 (again a choice that was made to get going as fast as possible) and move to a much more modern and maintainable framework. Today our tech stack looks as follow:
 
@@ -30,13 +30,15 @@ It was not long after this that we decided it's time to dump CodeIgniter 3 (agai
 * [Laravel](https://laravel.com/) - This needs about as much introduction as Elvis Presley and operates with similar levels of swag.
 * [RoadRunner](https://roadrunner.dev/) - A high-performance PHP application server, load-balancer, and process manager.
 * [SingleStore]() - The fastest relational database in the known universe.
-* [DynamoDB]() - NoSQL database for single-digit millisecond performance at any scale - we mainly use it as a cache layer.
+* [DynamoDB]() - NoSQL database for single-digit millisecond performance at any scale, we mainly use it as a cache layer.
+* [FluentBit](https://fluentbit.io/) - This is a really great system that helps us collect logs and traffic flow data at a massive scale.
 
 #### Infrastructure
-* [Lambda](https://aws.amazon.com/lambda/) - Run serverless code at any scale 
-* [SQS](https://aws.amazon.com/sqs/) - Fault tolerant and durable message queuing system
-* [S3](https://aws.amazon.com/s3/) - Object storage with 99.999999999 (11 9's) data durability
-* [ELB](https://aws.amazon.com/elasticloadbalancing/) - Highly available application load balancer with a [WAF](https://aws.amazon.com/waf/)
+* [Lambda](https://aws.amazon.com/lambda/) - Run serverless code at any scale.
+* [SQS](https://aws.amazon.com/sqs/) - Fault tolerant and durable message queuing system.
+* [Kinesis](https://aws.amazon.com/kinesis/) - Great to ingest and enrich data through a pipeline approach.
+* [S3](https://aws.amazon.com/s3/) - Object storage with 99.999999999 (11 9's) data durability.
+* [ELB](https://aws.amazon.com/elasticloadbalancing/) - Highly available application load balancer with a [WAF](https://aws.amazon.com/waf/).
 
 Of course we've left out a few things as we operate a large ecosystem but our approach in selecting technologies is centered around architectures that are modern, cloud native and battle tested by the largest Internet businesses on the planet.
 
