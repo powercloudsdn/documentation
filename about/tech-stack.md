@@ -42,6 +42,8 @@ It was not long after this that we decided it's time to dump CodeIgniter 3 (agai
 
 Of course we've left out a few things as we operate a large ecosystem but our approach in selecting technologies is centered around architectures that are modern, cloud native and battle tested by the largest Internet businesses on the planet.
 
+---
+
 ## Serverless Computing
 From February 2022 we no longer deploy code to servers, virtual machines or docker containers. All our API traffic is routed to AWS Lambda functions that require no scaling operations during peak traffic situations. 
 
@@ -61,6 +63,8 @@ It's really obvious that Lambda was the way to go. These are some of the things 
 
 We make use of [Laravel Vapor](https://vapor.laravel.com/) to simplify the management of our ever growing number of microservices.
 
+---
+
 ## A Fast Database
 In the winter of 2021 we signed up our first enterprise user. While bootstrapping hundreds of MikroTik routers over a period 48 hours with virtually no sleep we noticed something alarming, we started maxing out our concurrent database connections. At this point we had a MVP (minimally viable product) that used CodeIgniter as a framework, and while considerations were made to database design it became really clear what we had was not going to scale. At this point we were using AWS Aurora Serverless. The issue (I should say one of the issues) was that this product was limited to 90 concurrent connections per ACU. To accommodate this immediate growth pain we switched to a provisioned Aurora database and turned op the maximum concurrent connections to 16,000. It got us out of a pickle for a few months.
 
@@ -77,8 +81,11 @@ How fast is it? Here's an example on a table with 50 million rows:
 
 The results don't change much either for complex queries with joins. There's a great [article](https://usefathom.com/blog/worlds-fastest-analytics) that Jack Ellis wrote about databases if you are interested in what can be achieved with SingleStore.
 
+---
+
 ## Coffee
 It wouldn't have been right to leave this out. Coffee is an undeniable part of our tech stack.
 
+---
 
 Written by [Hannes Kruger](https://twitter.com/HannesKruger_) {% .text-xs .font-medium %}
