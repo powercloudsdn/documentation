@@ -75,3 +75,9 @@ How fast is it? Here's an example on a table with 50 million rows:
 
 The results don't change much either for complex queries with joins. There's a great [article](https://usefathom.com/blog/worlds-fastest-analytics) that Jack Ellis wrote about databases if you are interested in what can be achieved with SingleStore.
 
+## Developer life blood
+It wouldn't have been right to leave this out. Coffee is an undeniable part of our tech stack.
+Key contributors include:
+
+* [Nespresso](https://www.nespresso.com/)
+* [Motherland](https://www.motherlandcoffee.com/)
