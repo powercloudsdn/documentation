@@ -61,7 +61,7 @@ It's really obvious that Lambda was the way to go. These are some of the things 
 
 We make use of [Laravel Vapor](https://vapor.laravel.com/) to simplify the management of our ever growing number of microservices.
 
-## A database with scale
+## A Fast Database
 In the winter of 2021 we signed up our first enterprise user. While bootstrapping hundreds of MikroTik routers over a period 48 hours with virtually no sleep we noticed something alarming, we started maxing out our concurrent database connections. At this point we had a MVP (minimally viable product) that used CodeIgniter as a framework, and while considerations were made to database design it became really clear what we had was not going to scale. At this point we were using AWS Aurora Serverless. The issue (I should say one of the issues) was that this product was limited to 90 concurrent connections per ACU. To accommodate this immediate growth pain we switched to a provisioned Aurora database and turned op the maximum concurrent connections to 16,000. It got us out of a pickle for a few months.
 
 In the six months that followed we tried virtually every cloud-native database on offer, our requirements were simple: It needs to handle load well, it needs to scale easily, it needs to cost reasonable money, and we want it to be fast. A clear winner emerged from the tests. [SingleStore](https://www.singlestore.com/).
@@ -77,9 +77,8 @@ How fast is it? Here's an example on a table with 50 million rows:
 
 The results don't change much either for complex queries with joins. There's a great [article](https://usefathom.com/blog/worlds-fastest-analytics) that Jack Ellis wrote about databases if you are interested in what can be achieved with SingleStore.
 
-## Developer life blood
+## Coffee
 It wouldn't have been right to leave this out. Coffee is an undeniable part of our tech stack.
-Key contributors include:
 
-* [Nespresso](https://www.nespresso.com/)
-* [Motherland](https://www.motherlandcoffee.com/)
+---
+Written by [Hannes Kruger](https://twitter.com/HannesKruger_)
