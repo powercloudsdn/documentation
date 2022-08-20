@@ -4,13 +4,13 @@ description: We rely on a few simple and effective rules to ensure that we live 
 ---
 
 ## Introduction
-Welcome to PowerCloud (“Company”, “we”, “our”, “us”)!
+Welcome to PowerCloud ("Company", "we", "our", "us")!
 
-These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at mypowercloud.net (and any subdomains of mypowercloud.net) (together or individually termed “Service”) operated by PowerCloud.
+These Terms of Service ("Terms", "Terms of Service") govern your use of our website located at mypowercloud.net (and any subdomains of mypowercloud.net) (together or individually termed "Service") operated by PowerCloud.
 
 Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web application.
 
-Your agreement with us includes these Terms and our Privacy Policy (“Agreements”). You acknowledge that you have read and understood Agreements, and agree to be bound by them.
+Your agreement with us includes these Terms and our Privacy Policy ("Agreements"). You acknowledge that you have read and understood Agreements, and agree to be bound by them.
 
 If you do not agree with (or cannot comply with) these Agreements, then you may not use the Service. These Terms apply to all visitors, users and others who wish to access or use our Service.
 
@@ -18,7 +18,7 @@ If you do not agree with (or cannot comply with) these Agreements, then you may 
 By using our Service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing at support@mypowercloud.net.
 
 ## Purchases
-If you wish to purchase any product or service made available through PowerCloud (“Purchase”), you may be asked to supply certain information relevant to your Purchase including but not limited to, your credit or debit card number, the expiration date of your card, your billing address, and your address information.
+If you wish to purchase any product or service made available through PowerCloud ("Purchase"), you may be asked to supply certain information relevant to your Purchase including but not limited to, your credit or debit card number, the expiration date of your card, your billing address, and your address information.
 
 You represent and warrant that: (i) you have the legal right to use any card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.
 
@@ -27,10 +27,10 @@ We may employ the use of third party services for the purpose of facilitating pa
 We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal transaction is suspected.
 
 ## Contests, sweepstakes and promotions
-Any contests, sweepstakes or other promotions (collectively, “Promotions”) made available through PowerCloud may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply.
+Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through PowerCloud may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply.
 
 ## Subscriptions
-Some parts of the Service are billed on a subscription basis (“Subscription(s)”). You will be billed in advance on a recurring and periodic basis (“Billing Cycle”). Billing cycles will be set depending on the type of subscription plan you select when purchasing a Subscription.
+Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles will be set depending on the type of subscription plan you select when purchasing a Subscription.
 
 At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or PowerCloud cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting the PowerCloud customer support team at support@mypowercloud.net.
 
@@ -40,7 +40,7 @@ Should automatic billing fail to occur for any reason, PowerCloud reserves the r
 
 
 ## Free trial
-PowerCloud may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (“Free Trial”).
+PowerCloud may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
 
 You may be required to enter your billing information in order to sign up for Free Trial.
 
@@ -59,7 +59,7 @@ Your continued use of the service after Subscription fee change comes into effec
 We do not issue refunds on our products and services unless we are unable to fulfill your order.
 
 ## Content
-Our Product and Services allows you to post, link, store, share and otherwise make available certain information or other material (“Content”). You are responsible for Content that you post on or through our Product or Service, including its legality, reliability, and appropriateness.
+Our Product and Services allows you to post, link, store, share and otherwise make available certain information or other material ("Content"). You are responsible for Content that you post on or through our Product or Service, including its legality, reliability, and appropriateness.
 
 By posting Content on or through our Product and Service, You represent and warrant that: (i) Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through our Products or Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity. We reserve the right to terminate the account of anyone found to be infringing on a copyright.
 
@@ -72,7 +72,7 @@ You may use our Products and Services only for lawful purposes and in accordance
 
 1. In any way that violates any applicable national or international law or regulation.
 2. For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.
-3. To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter,” “spam,” or any other similar solicitation.
+3. To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail", "chain letter," "spam," or any other similar solicitation.
 4. To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity.
 5. In any way that infringes upon the rights of others, or in any way is illegal, threatening, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.
 6. To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of our Product or Service, or which, as determined by us, may harm or offend Company or users of our Product or Service or expose them to liability.
@@ -108,9 +108,9 @@ We reserve the right to refuse service, terminate accounts, remove or edit conte
 PowerCloud and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of PowerCloud and its licensors. Our Product and Service is protected by copyright, trademark, and other laws of South Africa and foreign countries. Our trademarks may not be used in connection with any product or service without the prior written consent of PowerCloud.
 
 ## Copyright policy
-We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on our portal infringes on the copyright or other intellectual property rights (“Infringement”) of any person or entity.
+We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on our portal infringes on the copyright or other intellectual property rights ("Infringement") of any person or entity.
 
-If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to support@mypowercloud.net, with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below, under “Procedure for Copyright Infringement Claims” You may be held accountable for damages (including costs and attorneys' fees) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright.
+If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to support@mypowercloud.net, with the subject line: "Copyright Infringement" and include in your claim a detailed description of the alleged Infringement as detailed below, under "Procedure for Copyright Infringement Claims" You may be held accountable for damages (including costs and attorneys' fees) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright.
 
 ## Procedure for copyright infringement claims
 You may submit a notification pursuant to the Companies and Intellectual Properties Commission (CIPC)
@@ -125,7 +125,7 @@ You may submit a notification pursuant to the Companies and Intellectual Propert
 You can contact our Copyright Agent via email at support@mypowercloud.net.
 
 ## Error reporting and feedback
-You may provide us either directly at support@mypowercloud.net or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
+You may provide us either directly at support@mypowercloud.net or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service ("Feedback"). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
 
 ## Links to other websites
 Our Service may contain links to third party web sites or services that are not owned or controlled by PowerCloud.
@@ -137,7 +137,7 @@ YOU ACKNOWLEDGE AND AGREE THAT COMPANY SHALL NOT BE RESPONSIBLE OR LIABLE, DIREC
 WE STRONGLY ADVISE YOU TO READ THE TERMS OF SERVICE AND PRIVACY POLICIES OF ANY THIRD PARTY WEB SITES OR SERVICES THAT YOU VISIT.
 
 ## Disclaimer of warranty
-THESE SERVICES ARE PROVIDED BY POWERCLOUD ON AN “AS IS” AND “AS AVAILABLE” BASIS. POWERCLOUD MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK.
+THESE SERVICES ARE PROVIDED BY POWERCLOUD ON AN "AS IS" AND "AS AVAILABLE" BASIS. POWERCLOUD MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK.
 
 NEITHER POWERCLOUD NOR ANY PERSON ASSOCIATED WITH POWERCLOUD MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER POWERCLOUD NOR ANYONE ASSOCIATED WITH POWERCLOUD REPRESENTS OR WARRANTS THAT THE SERVICES, THEIR CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SERVICES OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
 
