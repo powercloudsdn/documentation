@@ -1,5 +1,5 @@
 ---
-title: Our guiding principles
+title: We are guided principles
 description: We rely on a few simple and effective rules to ensure that we live up to a standard that surpasses that of our competitors
 ---
 
