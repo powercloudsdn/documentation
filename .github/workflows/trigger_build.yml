@@ -1,0 +1,14 @@
+name: TriggerBuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy Environment
+        run: curl -X POST -d {} "$AMPLIFYWEBHOOK" -H "Content-Type:application/json"
+        env:
+          AMPLIFYWEBHOOK: ${{ secrets.AMPLIFYWEBHOOK }}
