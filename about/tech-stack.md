@@ -81,9 +81,4 @@ The results don't change much either for complex queries with joins. There's a g
 
 ---
 
-## Coffee
-It wouldn't have been right to leave this out. Coffee is an undeniable part of our tech stack.
-
----
-
 Written by [Hannes Kruger](https://twitter.com/HannesKruger_)
