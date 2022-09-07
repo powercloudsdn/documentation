@@ -3,8 +3,6 @@ title: Technology Stack
 description: What goes in to building the worlds largest MikroTik API?
 ---
 
-What goes in to building the worlds largest MikroTik API? {% .lead %}
-
 We are constantly questioning our choices, iterating our code and testing new technologies with the aim of bettering our product. All our API's are built from the ground up around three pillar requirements:
 
 1. Reliability
@@ -88,4 +86,4 @@ It wouldn't have been right to leave this out. Coffee is an undeniable part of o
 
 ---
 
-Written by [Hannes Kruger](https://twitter.com/HannesKruger_) {% .text-xs .font-medium %}
+Written by [Hannes Kruger](https://twitter.com/HannesKruger_)
