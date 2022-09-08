@@ -1,6 +1,6 @@
 ---
 title: Product Pricing
-description: MikroCloud services can be ordered and attached to MikroTik routers on an à la carte basis. Billing is calculated on an hourly basis.
+description: MikroCloud services can be ordered and attached to MikroTik routers on an à la carte basis. Prices work off a monthly rate but is billed on an hourly basis.
 ---
 
 ## Generally Available Services
