@@ -1,10 +1,6 @@
 ---
 title: Infrastructure IP Addresses, Ports and FQDN's
-description: Installing the MikroCloud bootstrap script on your router add an automatic scheduler to your router.
----
-
-This is a list of resources that we make use of to securely deliver our services to thousands of MikroTik routers and users over the internet.
-
+description: This is a list of resources that we make use of to securely deliver our services to thousands of MikroTik routers and users over the internet.
 ---
 
 ## Anycast Addresses
