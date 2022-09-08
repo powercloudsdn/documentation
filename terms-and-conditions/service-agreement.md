@@ -1,12 +1,11 @@
 ---
 title: Service Agreement
-description: We rely on a few simple and effective rules to ensure that we live up to a standard that surpasses that of our competitors
 ---
 
 ## Introduction
-Welcome to PowerCloud ("Company", "we", "our", "us")!
+Welcome to MikroCloud ("Company", "we", "our", "us")!
 
-These Terms of Service ("Terms", "Terms of Service") govern your use of our website located at mypowercloud.net (and any subdomains of mypowercloud.net) (together or individually termed "Service") operated by PowerCloud.
+These Terms of Service ("Terms", "Terms of Service") govern your use of our website located at mikrocloud.com (and any subdomains of mikrocloud.com) (together or individually termed "Service") operated by MikroCloud.
 
 Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web application.
 
@@ -15,10 +14,10 @@ Your agreement with us includes these Terms and our Privacy Policy ("Agreements"
 If you do not agree with (or cannot comply with) these Agreements, then you may not use the Service. These Terms apply to all visitors, users and others who wish to access or use our Service.
 
 ## Communications
-By using our Service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing at support@mypowercloud.net.
+By using our Service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing at support@mikrocloud.com.
 
 ## Purchases
-If you wish to purchase any product or service made available through PowerCloud ("Purchase"), you may be asked to supply certain information relevant to your Purchase including but not limited to, your credit or debit card number, the expiration date of your card, your billing address, and your address information.
+If you wish to purchase any product or service made available through MikroCloud ("Purchase"), you may be asked to supply certain information relevant to your Purchase including but not limited to, your credit or debit card number, the expiration date of your card, your billing address, and your address information.
 
 You represent and warrant that: (i) you have the legal right to use any card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.
 
@@ -27,31 +26,31 @@ We may employ the use of third party services for the purpose of facilitating pa
 We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal transaction is suspected.
 
 ## Contests, sweepstakes and promotions
-Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through PowerCloud may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply.
+Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through MikroCloud may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, Promotion rules will apply.
 
 ## Subscriptions
 Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles will be set depending on the type of subscription plan you select when purchasing a Subscription.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or PowerCloud cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting the PowerCloud customer support team at support@mypowercloud.net.
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or MikroCloud cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting the MikroCloud customer support team at support@mikrocloud.com.
 
-A valid payment method is required to process the payment for your subscription. You shall provide PowerCloud with accurate and complete billing information that may include but not limited to full name, address, state, postal or zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize PowerCloud to charge all Subscription fees incurred through your account to any such payment instruments.
+A valid payment method is required to process the payment for your subscription. You shall provide MikroCloud with accurate and complete billing information that may include but not limited to full name, address, state, postal or zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize MikroCloud to charge all Subscription fees incurred through your account to any such payment instruments.
 
-Should automatic billing fail to occur for any reason, PowerCloud reserves the right to terminate your access to the Service with immediate effect.
+Should automatic billing fail to occur for any reason, MikroCloud reserves the right to terminate your access to the Service with immediate effect.
 
 
 ## Free trial
-PowerCloud may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
+MikroCloud may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
 
 You may be required to enter your billing information in order to sign up for Free Trial.
 
-If you enter your billing information when signing up for Free Trial, you will not be charged by PowerCloud until the Free Trial has expired. On the last day of Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
+If you enter your billing information when signing up for Free Trial, you will not be charged by MikroCloud until the Free Trial has expired. On the last day of Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
 
-At any time and without notice, PowerCloud reserves the right to (i) modify Terms of Service of Free Trial offer, or (ii) cancel such Free Trial offer.
+At any time and without notice, MikroCloud reserves the right to (i) modify Terms of Service of Free Trial offer, or (ii) cancel such Free Trial offer.
 
 ## Fee changes
-PowerCloud, in its sole discretion and at any time, may modify Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+MikroCloud, in its sole discretion and at any time, may modify Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
-PowerCloud will provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+MikroCloud will provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the service after Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
@@ -63,9 +62,9 @@ Our Product and Services allows you to post, link, store, share and otherwise ma
 
 By posting Content on or through our Product and Service, You represent and warrant that: (i) Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through our Products or Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity. We reserve the right to terminate the account of anyone found to be infringing on a copyright.
 
-You retain any and all of your rights to any Content you submit, post or display on or through our Product or Services and you are responsible for protecting those rights. We take no responsibility and assume no liability for Content you or any third party posts on or through our Product or Service. However, by posting Content using PowerCloud you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through our Product or Service. You agree that this license includes the right for us to make your Content available to other users of our Products or Service, who may also use your Content subject to these Terms.
+You retain any and all of your rights to any Content you submit, post or display on or through our Product or Services and you are responsible for protecting those rights. We take no responsibility and assume no liability for Content you or any third party posts on or through our Product or Service. However, by posting Content using MikroCloud you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through our Product or Service. You agree that this license includes the right for us to make your Content available to other users of our Products or Service, who may also use your Content subject to these Terms.
 
-PowerCloud has the right but not the obligation to monitor and edit all Content provided by users.
+MikroCloud has the right but not the obligation to monitor and edit all Content provided by users.
 
 ## Prohibited uses
 You may use our Products and Services only for lawful purposes and in accordance with Terms. You agree not to use Products and Services:
@@ -105,12 +104,12 @@ You may not use as a username the name of another person or entity or that is no
 We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion.
 
 ## Intellectual property
-PowerCloud and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of PowerCloud and its licensors. Our Product and Service is protected by copyright, trademark, and other laws of South Africa and foreign countries. Our trademarks may not be used in connection with any product or service without the prior written consent of PowerCloud.
+MikroCloud and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of MikroCloud and its licensors. Our Product and Service is protected by copyright, trademark, and other laws of South Africa and foreign countries. Our trademarks may not be used in connection with any product or service without the prior written consent of MikroCloud.
 
 ## Copyright policy
 We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on our portal infringes on the copyright or other intellectual property rights ("Infringement") of any person or entity.
 
-If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to support@mypowercloud.net, with the subject line: "Copyright Infringement" and include in your claim a detailed description of the alleged Infringement as detailed below, under "Procedure for Copyright Infringement Claims" You may be held accountable for damages (including costs and attorneys' fees) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright.
+If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to support@mikrocloud.com, with the subject line: "Copyright Infringement" and include in your claim a detailed description of the alleged Infringement as detailed below, under "Procedure for Copyright Infringement Claims" You may be held accountable for damages (including costs and attorneys' fees) for misrepresentation or bad-faith claims on the infringement of any Content found on and/or through Service on your copyright.
 
 ## Procedure for copyright infringement claims
 You may submit a notification pursuant to the Companies and Intellectual Properties Commission (CIPC)
@@ -122,33 +121,33 @@ You may submit a notification pursuant to the Companies and Intellectual Propert
 5. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 6. a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-You can contact our Copyright Agent via email at support@mypowercloud.net.
+You can contact our Copyright Agent via email at support@mikrocloud.com.
 
 ## Error reporting and feedback
-You may provide us either directly at support@mypowercloud.net or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service ("Feedback"). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
+You may provide us either directly at support@mikrocloud.com or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service ("Feedback"). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
 
 ## Links to other websites
-Our Service may contain links to third party web sites or services that are not owned or controlled by PowerCloud.
+Our Service may contain links to third party web sites or services that are not owned or controlled by MikroCloud.
 
-PowerCloud has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
+MikroCloud has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
 YOU ACKNOWLEDGE AND AGREE THAT COMPANY SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH THIRD PARTY WEB SITES OR SERVICES.
 
 WE STRONGLY ADVISE YOU TO READ THE TERMS OF SERVICE AND PRIVACY POLICIES OF ANY THIRD PARTY WEB SITES OR SERVICES THAT YOU VISIT.
 
 ## Disclaimer of warranty
-THESE SERVICES ARE PROVIDED BY POWERCLOUD ON AN "AS IS" AND "AS AVAILABLE" BASIS. POWERCLOUD MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK.
+THESE SERVICES ARE PROVIDED BY MikroCloud ON AN "AS IS" AND "AS AVAILABLE" BASIS. MikroCloud MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THEIR SERVICES, OR THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THESE SERVICES, THEIR CONTENT, AND ANY SERVICES OR ITEMS OBTAINED FROM US IS AT YOUR SOLE RISK.
 
-NEITHER POWERCLOUD NOR ANY PERSON ASSOCIATED WITH POWERCLOUD MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER POWERCLOUD NOR ANYONE ASSOCIATED WITH POWERCLOUD REPRESENTS OR WARRANTS THAT THE SERVICES, THEIR CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SERVICES OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+NEITHER MikroCloud NOR ANY PERSON ASSOCIATED WITH MikroCloud MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER MikroCloud NOR ANYONE ASSOCIATED WITH MikroCloud REPRESENTS OR WARRANTS THAT THE SERVICES, THEIR CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SERVICES OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
 
-POWERCLOUD HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR PARTICULAR PURPOSE.
+MikroCloud HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR PARTICULAR PURPOSE.
 
 THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 
 ## Limitations of liability
 EXCEPT AS PROHIBITED BY LAW, YOU WILL HOLD US AND OUR OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS HARMLESS FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGE, HOWEVER IT ARISES (INCLUDING ATTORNEYS' FEES AND ALL RELATED COSTS AND EXPENSES OF LITIGATION AND ARBITRATION, OR AT TRIAL OR ON APPEAL, IF ANY, WHETHER OR NOT LITIGATION OR ARBITRATION IS INSTITUTED), WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, OR OTHER TORTIOUS ACTION, OR ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING WITHOUT LIMITATION ANY CLAIM FOR
 
-PERSONAL INJURY OR PROPERTY DAMAGE, ARISING FROM THIS AGREEMENT AND ANY VIOLATION BY YOU OF ANY FEDERAL, STATE, OR LOCAL LAWS, STATUTES, RULES, OR REGULATIONS, EVEN IF COMPANY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. EXCEPT AS PROHIBITED BY LAW, IF THERE IS LIABILITY FOUND ON THE PART OF POWERCLOUD, IT WILL BE LIMITED TO THE AMOUNT PAID FOR THE PRODUCTS AND/OR SERVICES, AND UNDER NO CIRCUMSTANCES WILL THERE BE CONSEQUENTIAL OR PUNITIVE DAMAGES.
+PERSONAL INJURY OR PROPERTY DAMAGE, ARISING FROM THIS AGREEMENT AND ANY VIOLATION BY YOU OF ANY FEDERAL, STATE, OR LOCAL LAWS, STATUTES, RULES, OR REGULATIONS, EVEN IF COMPANY HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. EXCEPT AS PROHIBITED BY LAW, IF THERE IS LIABILITY FOUND ON THE PART OF MIKROCLOUD, IT WILL BE LIMITED TO THE AMOUNT PAID FOR THE PRODUCTS AND/OR SERVICES, AND UNDER NO CIRCUMSTANCES WILL THERE BE CONSEQUENTIAL OR PUNITIVE DAMAGES.
 
 ## Termination
 We may terminate or suspend your account and bar access to Our Products and Services immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of Terms.
@@ -169,7 +168,7 @@ Your continued use of the Platform following the posting of revised Terms means 
 By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use our Service.
 
 ## Waiver and serverability
-No waiver by PowerCloud of any term or condition set forth in Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of PowerCloud to assert a right or provision under Terms shall not constitute a waiver of such right or provision.
+No waiver by MikroCloud of any term or condition set forth in Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of MikroCloud to assert a right or provision under Terms shall not constitute a waiver of such right or provision.
 
 If any provision of Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of Terms will continue in full force and effect.
 

@@ -1,10 +1,9 @@
 ---
 title: Disclaimers
-description: We rely on a few simple and effective rules to ensure that we live up to a standard that surpasses that of our competitors
 ---
 
 ## Website Disclaimer
-The information provided by PowerCloud ("Company", "we", "our", "us") on mypowercloud.net (the "Site") is for general informational purposes only. All information on the site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.
+The information provided by MikroCloud ("Company", "we", "our", "us") on mikrocloud.com (the "Site") is for general informational purposes only. All information on the site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.
 
 UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.
 
@@ -21,9 +20,9 @@ The testimonials on the Site are submitted in various forms such as text, audio 
 The views and opinions contained in the testimonials belong solely to the individual user and do not refl ect our views and opinions.
 
 ## Errors and omissions disclaimer
-While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, PowerCloud is not responsible for any errors or omissions or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.
+While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, MikroCloud is not responsible for any errors or omissions or for the results obtained from the use of this information. All information in this site is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.
 
-In no event will PowerCloud, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.
+In no event will MikroCloud, its related partnerships or corporations, or the partners, agents or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 ## Logos and trademarks disclaimer
-All logos and trademarks of third parties referenced on mypowercloud.net are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of PowerCloud by such owners.
+All logos and trademarks of third parties referenced on mikrocloud.com are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of MikroCloud by such owners.

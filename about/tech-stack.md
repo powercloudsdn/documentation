@@ -45,7 +45,7 @@ Of course we've left out a few things as we operate a large ecosystem but our ap
 ## Serverless Computing
 From February 2022 we no longer deploy code to servers, virtual machines or docker containers. All our API traffic is routed to AWS Lambda functions that require no scaling operations during peak traffic situations. 
 
-AWS Lambda was a real game changer for PowerCloud, we frequently faced complex challenges in the past when it came to building things that can scale dynamically, have reliability and doesn't weigh us down with server management. The last point is really where we've seen a massive improvement. Managing load balancers, servers, and planning auto scale systems is a discipline on its own. It came down to a really simple choice, do we;
+AWS Lambda was a real game changer for MikroCloud, we frequently faced complex challenges in the past when it came to building things that can scale dynamically, have reliability and doesn't weigh us down with server management. The last point is really where we've seen a massive improvement. Managing load balancers, servers, and planning auto scale systems is a discipline on its own. It came down to a really simple choice, do we;
 
 1. Do everything including the management of servers and operating systems? Or
 2. Focus on writing good code and put our energy into solving things for MikroTik networks?

@@ -1,6 +1,6 @@
 ---
 title: Infrastructure IP Addresses, Ports and FQDN's
-description: Installing the PowerCloud bootstrap script on your router add an automatic scheduler to your router.
+description: Installing the MikroCloud bootstrap script on your router add an automatic scheduler to your router.
 ---
 
 This is a list of resources that we make use of to securely deliver our services to thousands of MikroTik routers and users over the internet.
@@ -38,7 +38,7 @@ Traffic steering tunnels are seen on managed WAN failover configurations. There 
 
 ## Egress IP Addresses
 
-Whenever an outbound connection is made from PowerCloud's production environment to a resource on the internet it will be originated from one these IP's
+Whenever an outbound connection is made from MikroCloud's production environment to a resource on the internet it will be originated from one these IP's
 
 | IP Address |
 |------------|
@@ -47,7 +47,7 @@ Whenever an outbound connection is made from PowerCloud's production environment
 
 ## Domains
 
-PowerCloud makes use of these domains to deliver SD-WAN for MikroTik.
+MikroCloud makes use of these domains to deliver SD-WAN for MikroTik.
 
 | FQDN | Remark |
 |------------|------|
