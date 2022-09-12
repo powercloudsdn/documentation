@@ -29,11 +29,11 @@ There will a period of time where we run both web apps at the same time, but in 
 Building a new portal means that we can include multi-language support from the start. Our immediate road map will include the following languages:
 
 #### Immediate
-1. English
+* English
 
 #### 2023
-2. Spanish
-3. Portuguese
+* Spanish
+* Portuguese
 
 ---
 
