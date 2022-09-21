@@ -26,3 +26,6 @@ In no event will MikroCloud, its related partnerships or corporations, or the pa
 
 ## Logos and trademarks disclaimer
 All logos and trademarks of third parties referenced on mikrocloud.com are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of MikroCloud by such owners.
+
+
+![df](https://www.w3schools.com/html/pic_trulli.jpg)
