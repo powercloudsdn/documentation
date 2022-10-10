@@ -24,6 +24,7 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 ### Account Related
 * Authentication
 * MFA Login support
+* Manage account and sub-users
 * Password and MFA recovery
 * Authentication logs
 * Password and MFA recovery logs
