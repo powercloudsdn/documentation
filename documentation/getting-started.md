@@ -68,7 +68,7 @@ You can achieve this by running is command:
 You are nearly done! During this step you will instruct your router to install our async API. Once this is done you will be able to adopt the router.
 
 ```shell
-/tool fetch url="https://api.mikrocloud.com/bootstrap" dst-path="powercloud.rsc";/import powercloud.rsc;
+/tool fetch url="https://api.mikrocloud.com/bootstrap" dst-path="mikrocloud.rsc";/import mikrocloud.rsc;
 ```
 
 You should receive output like this in your command line.
@@ -92,7 +92,7 @@ Script file loaded and executed successfully
 =========================================
       status: finished
   downloaded: 0KiBC-z pause]
-        data: Bootstrap completed successfully | Activation Code: 77HCHF8V | Go to https://app.mikrocloud.net/new/ to activate this device.
+        data: Bootstrap completed successfully | Activation Code: 77HCHF8V | Go to https://app.mikrocloud.com/new to activate this device.
 =========================================
 
 Script file loaded and executed successfully
@@ -100,7 +100,7 @@ Script file loaded and executed successfully
 
 ```
 
-🥳 Your router is now in a `adoption pending` state. Copy to the serial number, you'll need it in a moment.
+🥳 Your router is now in a `adoption pending` state. Copy to the activation code, you'll need it in a moment.
 
-Now go to the [SOC onboarding page](https://app.mypowercloud.net/new) an follow the onscreen instructions.
+Now go to the [SOC onboarding page](https://app.mikrocloud.com/new) an follow the onscreen instructions.
 
