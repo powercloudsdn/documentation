@@ -1,17 +1,17 @@
 ---
 title: Getting started
 pageTitle: SD-WAN made for MikroTik
-description: Learn how to add your MikroTik router to PowerCloud's service orchestration console in three easy steps.
+description: Learn how to add your MikroTik router to MikroCloud's service orchestration console in three easy steps.
 ---
 
-PowerCloud makes use of two control planes to securely manage your MikroTik devices. The first is an asynchronous API that polls our platform at an interval of 30 seconds and the second is a realtime API connection that is made to your router over an encrypted VPN tunnel.
+MikroCloud makes use of two control planes to securely manage your MikroTik devices. The first is an asynchronous API that polls our platform at an interval of 30 seconds and the second is a realtime API connection that is made to your router over an encrypted VPN tunnel.
 
 ---
 
 ## Prerequisites
 You will need the following to complete this task:
 
-* A Service Orchestration Console (SOC) account - [register here](https://app.mypowercloud.net/authentication/register)
+* A Service Orchestration Console (SOC) account - [register here](https://app.mikrocloud.com/authentication/register)
 * A MikroTik router running RouterOS 6.46 or newer (your router will also need Internet access)
 * You need terminal access (either through SSH or Winbox)
 * Your MikroTik user must have write permissions
@@ -26,15 +26,15 @@ Most of the configuration that we add to your router will be done through our as
 
 ### Step 1: Do a connectivity test
 
-As PowerCloud is a cloud native service your router needs Internet access. Run this command on your router to ensure that you can reach our servers.
+As MikroCloud is a cloud native service your router needs Internet access. Run this command on your router to ensure that you can reach our servers.
 
 ```shell
-:if ([/ping powercloud-api.net count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
+:if ([/ping api.mikrocloud.com count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
 ```
 
 If everything is working as expected you should see this message at the end of the output: `Internet OK`
 ```
-[admin@PowerCloud] > :if ([/ping powercloud-api.net count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
+[admin@MikroCloud] > :if ([/ping api.mikrocloud.com count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
   SEQ HOST                                     SIZE TTL TIME       STATUS
     0 99.83.188.232                              56 122 1ms987us  
     1 99.83.188.232                              56 122 12ms695us 
@@ -68,48 +68,39 @@ You can achieve this by running is command:
 You are nearly done! During this step you will instruct your router to install our async API. Once this is done you will be able to adopt the router.
 
 ```shell
-/tool fetch url="https://powercloud-api.net/bootstrap" dst-path="powercloud.rsc";/import powercloud.rsc;
+/tool fetch url="https://api.mikrocloud.com/bootstrap" dst-path="powercloud.rsc";/import powercloud.rsc;
 ```
 
 You should receive output like this in your command line.
 
 ```
-[admin@PowerCloud] > /tool fetch url="https://powercloud-api.net/bootstrap" dst-path="powercloud.rsc";/import powercloud.rsc;
+[admin@mikrotik] > /tool fetch url="https://api.mikrocloud.com/bootstrap" dst-path="mikrocloud.rsc";/import mikrocloud.rsc;
       status: finished
-  downloaded: 2KiBC-z pause]
-       total: 2KiB
+  downloaded: 1KiBC-z pause]
+       total: 0KiB
+    duration: 1s
+
+      status: finished
+  downloaded: 1KiBC-z pause]
+       total: 0KiB
     duration: 0s
 
-Starting PowerCloud bootstrap loader installation
-Please wait - this can take upto 60 seconds
-Progress: 0%
-Progress: 5%
-Progress: 10%
-Progress: 15%
-Progress: 20%
-Progress: 25%
-Progress: 30%
-Progress: 35%
-Progress: 40%
-Progress: 45%
-Progress: 50%
-Progress: 55%
-Progress: 60%
-Progress: 65%
-Progress: 70%
-Progress: 75%
-Progress: 80%
-Progress: 85%
-
-
-Successfully installed PowerCloud bootstrap loader
-Visit https://app.mypowercloud.net/sdn/new/ to adopt this router
-Serial number: 71AF077937CF
 
 Script file loaded and executed successfully
+
+
+=========================================
+      status: finished
+  downloaded: 0KiBC-z pause]
+        data: Bootstrap completed successfully | Activation Code: 77HCHF8V | Go to https://app.mikrocloud.net/new/ to activate this device.
+=========================================
+
+Script file loaded and executed successfully
+[admin@mikrotik] > 
+
 ```
 
 🥳 Your router is now in a `adoption pending` state. Copy to the serial number, you'll need it in a moment.
 
-Now go to the [SOC onboarding page](https://app.mypowercloud.net/sdn/new) an follow the onscreen instructions.
+Now go to the [SOC onboarding page](https://app.mypowercloud.net/new) an follow the onscreen instructions.
 

@@ -24,6 +24,8 @@ In order to get rid of a lot of legacy issues with our portal we decided to buil
 
 There will a period of time where we run both web apps at the same time, but in time the new portal will completely replace the functionality of the old portal.
 
+[Read more...](/documentation/portal-migration)
+
 ## Multilingual support
 
 Building a new portal means that we can include multi-language support from the start. Our immediate road map will include the following languages:
@@ -38,3 +40,4 @@ Building a new portal means that we can include multi-language support from the 
 ---
 
 Written on 11 Sep. 2022 by Hannes Kruger
+
