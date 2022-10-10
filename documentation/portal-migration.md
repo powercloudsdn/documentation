@@ -13,7 +13,7 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 6. Your login credentials are the same for both the old and new portal
 
 ---
-## Features and currently supported
+## Features and currently supported in the new portal
 
 ### MikroTik and Deployment Related
 * Bootstrapping of routers - documentation available [here](/documentation/getting-started)
@@ -32,7 +32,7 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 ---
 ## Links
 
-* [Version 2 Portal (existing): https://app-old.mikrocloud.com/](https://app-old.mikrocloud.com/)
+* [Version 2 Portal (Existing): https://app-old.mikrocloud.com/](https://app-old.mikrocloud.com/)
 * [Version 3 Portal (New): https://app.mikrocloud.com/](https://app.mikrocloud.com/)
 
 ---
