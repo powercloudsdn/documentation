@@ -12,23 +12,24 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 5. Once we have added most of the features to the new portal we will migrate and move your sites.
 6. Your login credentials are the same for both the old and new portal
 
-## Features and Functions currently supported
+---
+## Features and currently supported
 
-| MikroTik and Deployment Related |
-|---------------------------------|
-| Bootstrapping of routers - documentation available [here](/documentation/getting-started) |
-| Heartbeat / Pulse Monitoring |
-
-
-| Account Related |
-|-----------------|
-| Authentication |
-| MFA Login support |
-| Password and MFA recovery |
-| Authentication logs |
-| Password and MFA recovery logs |
+### MikroTik and Deployment Related
+* Bootstrapping of routers - documentation available [here](/documentation/getting-started)
+* Heartbeat / Pulse Monitoring
+* Management of site name, address and system identity
 
 
+### Account Related
+* Authentication
+* MFA Login support
+* Password and MFA recovery
+* Authentication logs
+* Password and MFA recovery logs
+
+
+---
 ## Links
 
 * [Version 2 Portal (existing): https://app-old.mikrocloud.com/](https://app-old.mikrocloud.com/)
