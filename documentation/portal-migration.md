@@ -19,6 +19,8 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 * Bootstrapping of routers - documentation available [here](/documentation/getting-started)
 * Heartbeat / Pulse Monitoring
 * Management of site name, address and system identity
+* View orchestration log
+* View incident log
 
 
 ### Account Related
