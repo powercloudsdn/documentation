@@ -22,6 +22,9 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 * View orchestration log
 * View incident log
 
+### Policies
+* Business Hour Policies
+* Notification Policies
 
 ### Account Related
 * Authentication
@@ -40,4 +43,4 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 
 ---
 
-Last updated on 10 Oct 2022
+Last updated on 18 Oct 2022
