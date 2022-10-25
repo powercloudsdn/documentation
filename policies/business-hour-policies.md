@@ -11,7 +11,7 @@ description: Define business hour policies that describe operational hours for b
 
 Currently you can apply business hour policies as time constraints to the following services:
 
-* Notification Policies
+* [Notification Policies](/policies/notification-policies)
 * SLA Reports
 * IP Block Lists
 
@@ -43,7 +43,7 @@ Business hour policies are free of charge.
 
 | Field | Remarks |
 |-------|---------|
-| Name | String, Max 100 characters, required |
+| Name | String, required, max 100 characters |
 | Timezone | String, required, must be in [this list](https://www.php.net/manual/en/timezones.php) |
 | Start Time | String, required, format HH:MM, must be before End Time |
 | End Time | String, required, format HH:MM, must be after Start Time |
