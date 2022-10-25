@@ -45,8 +45,8 @@ Business hour policies are free of charge.
 |-------|---------|
 | Name | String, required, max 100 characters |
 | Timezone | String, required, must be in [this list](https://www.php.net/manual/en/timezones.php) |
-| Start Time | String, required, format HH:MM, must be before End Time |
-| End Time | String, required, format HH:MM, must be after Start Time |
+| Start Time | String, required, format HH:MM, min: 00:00, max: 23:58 must be before End Time |
+| End Time | String, required, format HH:MM, min: 00:01, max: 23:59, must be after Start Time |
 
 ---
 
