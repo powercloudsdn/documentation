@@ -14,3 +14,9 @@ User accounts can be created to give individuals access to the service orchestra
 | user | Normal user - cannot add, edit or delete other users |
 | rad | Can use portal login credentials to log in to MikroTik routers that have RADIUS authentication enabled |
 | recipient | Cannot log into service orchestration portal |
+
+
+<!-- ![Edit user account](https://cdn.mikrocloud.com/documentation-assets/edit-user.png)
+
+![List all user accounts](https://cdn.mikrocloud.com/documentation-assets/users-index.png)
+ -->
