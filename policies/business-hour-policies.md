@@ -11,13 +11,13 @@ description: Define business hour policies that describe operational hours for b
 
 Currently you can apply business hour policies as time constraints to the following services:
 
-* Notification policies
+* Notification Policies
 * SLA Reports
 * IP Block Lists
 
 ## Timezone selection
 
-While setting up a business hour policy you can select a timezone that will be used to determine the UTC offset. Other services that use this policy will assume this timezone. Example: A notification policy or scheduled SLA report uses the timezone that is selected in the assigned business hour policy.
+While setting up a business hour policy you can select a timezone that will be used to determine the UTC offset. Other services that use this policy will assume this timezone. Example: A notification policy or scheduled SLA report uses the timezone that is selected in its assigned business hour policy.
 
 ## All day policies
 
@@ -26,12 +26,20 @@ In order create a policy that is active for an entire day set the **Start Time**
 ## Validation and Constraints
 
 | Field | Remarks |
+|-------|---------|
 | Name | String, Max 100 characters, required |
 | Timezone | String, required, must be in [this list](https://www.php.net/manual/en/timezones.php) |
 | Start Time | String, required, format HH:MM, must be before End Time |
 | End Time | String, required, format HH:MM, must be after Start Time |
 
+## Limits and Pricing
+
+### Limits
+Each MikroCloud account can create a maximum of 100 business hour policies.
+
+### Pricing
+Business hour policies has no cost.
+
 ## Example Screenshot
 
 ![Business Hour Policy Screenshot](https://cdn.mikrocloud.com/documentation-assets/business-hour-policy.png)
-
