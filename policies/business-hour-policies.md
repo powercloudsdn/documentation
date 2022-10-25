@@ -15,13 +15,29 @@ Currently you can apply business hour policies as time constraints to the follow
 * SLA Reports
 * IP Block Lists
 
+---
+
 ## Timezone selection
 
 While setting up a business hour policy you can select a timezone that will be used to determine the UTC offset. Other services that use this policy will assume this timezone. Example: A notification policy or scheduled SLA report uses the timezone that is selected in its assigned business hour policy.
 
+---
+
 ## All day policies
 
 In order create a policy that is active for an entire day set the **Start Time** of the day to **00:00** and the **End Time** to **23:59** (*see Monday in the screenshot below*).
+
+---
+
+## Limits and Pricing
+
+### Limits
+Each MikroCloud account can create a maximum of 100 business hour policies.
+
+### Pricing
+Business hour policies are free of charge.
+
+---
 
 ## Validation and Constraints
 
@@ -32,13 +48,7 @@ In order create a policy that is active for an entire day set the **Start Time**
 | Start Time | String, required, format HH:MM, must be before End Time |
 | End Time | String, required, format HH:MM, must be after Start Time |
 
-## Limits and Pricing
-
-### Limits
-Each MikroCloud account can create a maximum of 100 business hour policies.
-
-### Pricing
-Business hour policies has no cost.
+---
 
 ## Example Screenshot
 
