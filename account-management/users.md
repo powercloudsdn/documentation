@@ -13,11 +13,10 @@ User accounts can be created to give individuals access to the service orchestra
 ### Limits
 The following limits are imposed per MikroCloud account:
 
-* A maximum of 150 users with SOC privileges. *
+* A maximum of 150 users with SOC privileges (excluding the main account).
 <!-- * A maximum of 150 users with RADIUS privileges. * -->
 * A maximum of 250 users without SOC and RADIUS privileges.
 
-**This excludes the main account.*
 
 ### Pricing
 
