@@ -43,3 +43,7 @@ Business hour policies has no cost.
 ## Example Screenshot
 
 ![Business Hour Policy Screenshot](https://cdn.mikrocloud.com/documentation-assets/business-hour-policy.png)
+
+---
+
+*Last updated on 25 Oct 2022*
