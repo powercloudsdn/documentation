@@ -7,5 +7,7 @@ We're still working on this page
 
 ---
 
+
+
 ![Business Hour Policy Screenshot](https://cdn.mikrocloud.com/documentation-assets/notification-policy.png)
 
