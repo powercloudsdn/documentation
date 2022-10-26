@@ -58,15 +58,15 @@ Notification policies are free of charge, but there are charges for message deli
 
 ## Validation and Constraints
 
-| Field                           | Remarks                              |
-| ------------------------------- | ------------------------------------ |
-| Name                            | String, required, max 100 characters |
-| Users                           | Array, required, max 50 objects      |
-| Business Hour Policy            | UUID, required, refers to this       |
-| Mute Outside of Business Hours  | Boolean, required, default false     |
-| Sites                           | Array, required, max 300 objects     |
-| Mute During Maintenance Windows | Boolean, required, default false     |
-| Disable Policy                  | Boolean, required, default false     |
+| Field                           | Remarks                                                            |
+| ------------------------------- | ------------------------------------------------------------------ |
+| Name                            | String, required, max 100 characters                               |
+| Users                           | Array, required, max 50 objects                                    |
+| Business Hour Policy            | UUID, required, refers to [this](/policies/business-hour-policies) |
+| Mute Outside of Business Hours  | Boolean, required, default false                                   |
+| Sites                           | Array, required, max 300 objects                                   |
+| Mute During Maintenance Windows | Boolean, required, default false                                   |
+| Disable Policy                  | Boolean, required, default false                                   |
 
 ---
 
