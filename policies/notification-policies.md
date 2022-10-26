@@ -15,7 +15,7 @@ At the heart of our orchestration system is an asynchronous API services that se
 
 ## Users
 
-Notification policies make use of the global user object store. At the moment we only support notification delivery via WhatsApp in the form of a text message. We have some plans to include support for webhooks, Slack, MS Teams and telegram, but this is likely to only arrive somewhere in 2023. Any user type can be used in a notification policy as long as the following requirements are met:
+Notification policies make use of the global [user object store](/account-management/users). At the moment we only support notification delivery via WhatsApp in the form of a text message. We have some plans to include support for webhooks, Slack, MS Teams and telegram, but this is likely to only arrive somewhere in 2023. Any user type can be used in a notification policy as long as the following requirements are met:
 
 - The user has a mobile number and an active WhatsApp account
 - The user has verified their number

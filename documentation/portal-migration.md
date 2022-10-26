@@ -13,33 +13,37 @@ description: We've rebuilt our provision API's and we're rebuilding our frontend
 6. Your login credentials are the same for both the old and new portal
 
 ---
+
 ## Features and currently supported in the new portal
 
 ### MikroTik and Deployment Related
-* Bootstrapping of routers - documentation available [here](/documentation/getting-started)
-* Heartbeat / Pulse Monitoring
-* Management of site name, address and system identity
-* View orchestration log
-* View incident log
+
+- Bootstrapping of routers - documentation available [here](/documentation/getting-started)
+- Heartbeat / Pulse Monitoring
+- Management of site name, address and system identity
+- View orchestration log
+- View incident log
 
 ### Policies
-* Business Hour Policies
-* Notification Policies
+
+- Business Hour Policies
+- Notification Policies
 
 ### Account Related
-* Authentication
-* MFA Login support
-* Manage account and sub-users
-* Password and MFA recovery
-* Authentication logs
-* Password and MFA recovery logs
 
+- Authentication
+- MFA Login support
+- Manage account and sub-users
+- Password and MFA recovery
+- Authentication logs
+- Password and MFA recovery logs
 
 ---
+
 ## Links
 
-* [Version 2 Portal (Existing): https://app-old.mikrocloud.com/](https://app-old.mikrocloud.com/)
-* [Version 3 Portal (New): https://app.mikrocloud.com/](https://app.mikrocloud.com/)
+- [Version 2 Portal (Existing): https://app-old.mikrocloud.com/](https://app-old.mikrocloud.com/)
+- [Version 3 Portal (New): https://app.mikrocloud.com/](https://app.mikrocloud.com/)
 
 ---
 
