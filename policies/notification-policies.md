@@ -15,7 +15,7 @@ At the heart of our orchestration system is an asynchronous API services that se
 
 ## Users
 
-Notification policies make use of global user object store. At the moment we only support notification delivery via WhatsApp in the form of a text message. We have some plans to include support for webhooks, Slack, MS Teams and telegram, but this is likely to only arrive somewhere in 2023. Any user type can be used in a notification policy as long as the following requirements are met:
+Notification policies make use of the global user object store. At the moment we only support notification delivery via WhatsApp in the form of a text message. We have some plans to include support for webhooks, Slack, MS Teams and telegram, but this is likely to only arrive somewhere in 2023. Any user type can be used in a notification policy as long as the following requirements are met:
 
 - The user has a mobile number and an active WhatsApp account
 - The user has verified their number
@@ -47,7 +47,7 @@ Enable this if you want to suppress notifications during planned downtime events
 
 ### Limits
 
-Each MikroCloud account can create a maximum of 100 notification polices
+Each MikroCloud account can create a maximum of 100 notification polices.
 Each notification policy can have a maximum of 50 users and there is an upper limit of 300 sites per policy
 
 ### Pricing
@@ -58,11 +58,15 @@ Notification policies are free of charge, but there are charges for message deli
 
 ## Validation and Constraints
 
-| Field | Remarks                              |
-| ----- | ------------------------------------ |
-| Name  | String, required, max 100 characters |
-| Users | Array, required, max 50 objects      |
-| Sites | Array, required, max 300 objects     |
+| Field                           | Remarks                              |
+| ------------------------------- | ------------------------------------ |
+| Name                            | String, required, max 100 characters |
+| Users                           | Array, required, max 50 objects      |
+| Business Hour Policy            | UUID, required, refers to this       |
+| Mute Outside of Business Hours  | Boolean, required, default false     |
+| Sites                           | Array, required, max 300 objects     |
+| Mute During Maintenance Windows | Boolean, required, default false     |
+| Disable Policy                  | Boolean, required, default false     |
 
 ---
 
