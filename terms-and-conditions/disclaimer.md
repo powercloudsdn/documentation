@@ -28,3 +28,4 @@ In no event will MikroCloud, its related partnerships or corporations, or the pa
 All logos and trademarks of third parties referenced on mikrocloud.com are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement or sponsorship of MikroCloud by such owners.
 
 
+[^1]: This is the first footnote.
