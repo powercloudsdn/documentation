@@ -24,83 +24,14 @@ Most of the configuration that we add to your router will be done through our as
 
 > These actions are safe and won't interfere with any of your configuration
 
-### Step 1: Do a connectivity test
-
-As MikroCloud is a cloud native service your router needs Internet access. Run this command on your router to ensure that you can reach our servers.
-
-```shell
-:if ([/ping api.mikrocloud.com count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
-```
-
-If everything is working as expected you should see this message at the end of the output: `Internet OK`
-```
-[admin@MikroCloud] > :if ([/ping api.mikrocloud.com count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
-  SEQ HOST                                     SIZE TTL TIME       STATUS
-    0 99.83.188.232                              56 122 1ms987us  
-    1 99.83.188.232                              56 122 12ms695us 
-    2 99.83.188.232                              56 122 1ms827us  
-    sent=3 received=3 packet-loss=0% min-rtt=1ms827us avg-rtt=5ms503us max-rtt=12ms695us 
-
-Internet OK
-```
-
-If you don't, [make sure your router is connected to the internet](/docs/diagnostic-guides/internet-connectivity).
-
----
-
-### Step 2: Install the correct version of RouterOS
-
-We do a lot of work to test our automation and scripts to ensure that we deliver a superior experience when it comes to reliability, stability and security. We require that you upgrade or downgrade to [one of these long-term versions](/docs/hardware-requirements/routeros-version).
-
-You can achieve this by running is command:
-
-```shell
-/ip dns static remove [find where name="upgrade.mikrotik.com"];:if ([:len [/ip dns static find name="upgrade.mikrotik.com"]] = 0) do={/ip dns static add address=3.210.237.154 name=upgrade.mikrotik.com;};/system package update set channel=long-term;/system package update check-for-updates once;:delay 5s;:if ([/system package update get status] = "New version is available") do={/system package update install;};
-```
 
 
-> The above command will cause your router to reboot - consider doing this during a maintenance window
-
----
-
-### Step 3: Installing the bootstrap scheduler
-
-You are nearly done! During this step you will instruct your router to install our async API. Once this is done you will be able to adopt the router.
-
-```shell
-/tool fetch url="https://api.mikrocloud.com/bootstrap" dst-path="mikrocloud.rsc";/import mikrocloud.rsc;
-```
-
-You should receive output like this in your command line.
-
-```
-[admin@mikrotik] > /tool fetch url="https://api.mikrocloud.com/bootstrap" dst-path="mikrocloud.rsc";/import mikrocloud.rsc;
-      status: finished
-  downloaded: 1KiBC-z pause]
-       total: 0KiB
-    duration: 1s
-
-      status: finished
-  downloaded: 1KiBC-z pause]
-       total: 0KiB
-    duration: 0s
 
 
-Script file loaded and executed successfully
+![Business Hour Policy Screen](https://cdn.mikrocloud.com/documentation-assets/bootstrap-step-1.png)
 
+![Business Hour Policy Screens](https://cdn.mikrocloud.com/documentation-assets/bootstrap-step-2.png)
 
-=========================================
-      status: finished
-  downloaded: 0KiBC-z pause]
-        data: Bootstrap completed successfully | Activation Code: 77HCHF8V | Go to https://app.mikrocloud.com/new to activate this device.
-=========================================
+![Business Hour Policy Screensh](https://cdn.mikrocloud.com/documentation-assets/bootstrap-step-3.png)
 
-Script file loaded and executed successfully
-[admin@mikrotik] > 
-
-```
-
-🥳 Your router is now in a `adoption pending` state. Copy to the activation code, you'll need it in a moment.
-
-Now go to the [SOC onboarding page](https://app.mikrocloud.com/new) an follow the onscreen instructions.
-
+![Business Hour Policy Screensho](https://cdn.mikrocloud.com/documentation-assets/bootstrap-winbox.png)
