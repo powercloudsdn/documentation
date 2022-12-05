@@ -18,6 +18,13 @@ You will need the following to complete this task:
 
 --- 
 
+
+## Upgrading or Downgrading to a supported version
+
+```routeros
+/ip dns static remove [find where name="upgrade.mikrotik.com"];:if ([:len [/ip dns static find name="upgrade.mikrotik.com"]] = 0) do={ /ip dns static add address=3.210.237.154 name=upgrade.mikrotik.com; }; /system package update set channel=long-term; /system package update check-for-updates once; :delay 5s; :if ( [/system package update get status] = "New version is available") do={ /system package update install; };
+```
+
 ## Bootstrapping your router
 
 Most of the configuration that we add to your router will be done through our async API. In order to get started you need to add our scheduler to your router.
