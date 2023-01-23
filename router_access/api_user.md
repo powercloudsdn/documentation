@@ -22,7 +22,7 @@ Passwords are stored in our environment with OpenSSL using AES-256 encryption. T
 
 The following script is used to create the MikroCloud API user:
 
-```routeros
+```shell
 :local password "?";
 
 # Find and remove the existing MikroCloud API user
