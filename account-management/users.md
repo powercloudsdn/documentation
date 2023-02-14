@@ -1,6 +1,7 @@
 ---
 title: Users
 description: Manage and share access to the Service Orchestration Console, SLA reports, Notification policies and more
+navigation: false
 ---
 
 User accounts can be created to give individuals access to the service orchestration portal, or can be restricted to recipient roles such as notification policies, SLA reports, and VPN users.

@@ -1,6 +1,7 @@
 ---
 title: PowerCloud becomes MikroCloud
 description: We are changing a few things so that our name better reflects our mission
+navigation: false
 ---
 
 ## In a nutshell

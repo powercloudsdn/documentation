@@ -1,6 +1,7 @@
 ---
 title: MikroCloud API User
 description: The MikroCloud API user is mainly used by our synchronous API to perform tasks on your router in realtime.
+navigation: false
 ---
 
 ## Why does MikroCloud need to put a user account on my router?

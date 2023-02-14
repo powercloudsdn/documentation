@@ -1,6 +1,7 @@
 ---
 title: Notification Policies
 description: Alert automation for sites when fault conditions are created and updated.
+navigation: false
 ---
 
 [Notification policies](https://app.mikrocloud.com/policies/notifiable) allow you to receive automated WhatsApp notifications when routers have fault conditions. You can attach business hour policies to suppress unwanted notifications during certain hours. Notification policies use the timezone specified in the associated business hour policy.

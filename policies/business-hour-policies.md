@@ -1,6 +1,7 @@
 ---
 title: Business Hour Policies
 description: Define business hour policies that describe operational hours for branches and sites.
+navigation: false
 ---
 
 [Business hour policies](https://app.mikrocloud.com/policies/business-hours) can be used in firewall rules, content filtering policies, notification policies and SLA reports. They act as time constraints to toggle services or rules and to calculate downtime.
