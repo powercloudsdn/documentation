@@ -11,3 +11,17 @@ description: Bootstrapping your MikroTik router is the first step towards SDN en
 4. Run the bootstrap script.
 5. Adopt your router in the Service Orchestration Portal.
 
+## Internet Reachability Test
+
+::rsc
+```
+:if ([/ping api.mikrocloud.com count=3;] > 1) do={
+	:put "Internet OK";
+} else={
+	:put "Internet not connected!";
+};
+```
+
+# copyable
+:if ([/ping api.mypowercloud.net count=3;]>1) do={:put "Internet OK";} else={:put "Internet not connected!";};
+::
