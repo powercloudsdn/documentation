@@ -1,11 +1,10 @@
 ---
-title: Documentation
-pageTitle: SD-WAN made for MikroTik
-description: Learn how to add your MikroTik router to MikroCloud's service orchestration console in three easy steps.
+title: SD-WAN for MikroTik
+description: MikroCloud enables SD-WAN functionality on RouterOS powered devices.
 navigation: false
 ---
 
-MikroCloud makes use of two control planes to securely manage your MikroTik devices. The first is an asynchronous API that polls our platform at an interval of 30 seconds and the second is a realtime API connection that is made to your router over an encrypted VPN tunnel.
+At the heart of our service is an expressive and elegant API that allows you to automate, orchestrate, and control MikroTik networks globally on any scale. We have a strong focus on SI and NFV for RouterOS and offer a wide range of services.
 
 ---
 
@@ -13,5 +12,5 @@ MikroCloud makes use of two control planes to securely manage your MikroTik devi
 
 | Task                                                                                                    | Time Needed | Skill Level Required |
 | ------------------------------------------------------------------------------------------------------- | ----------- | -------------------- |
-| [Install a supported version of RouterOS](/documentation/router-onboarding/supported-routeros-versions) | 2 Minutes   | Beginner             |
+| [Install a supported version of RouterOS](/documentation/router-onboarding/supported-routeros-versions) | 1 Minute    | Beginner             |
 | [Bootstrap a router](/documentation/router-onboarding/bootstrap)                                        | 3 Minutes   | Beginner             |
