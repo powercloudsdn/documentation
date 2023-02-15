@@ -4,6 +4,9 @@ description: All our scripts and automation procedures for RouterOS is thoroughl
 ---
 
 ## 6.47.10 (long-term)
+Copy the below script to upgrade / downgrade your router to version 6.47.10.
+Note: This will cause your router to reboot - do this during a maintenance window.
+
 ::rsc
 ```
 /ip dns static remove [find where name="upgrade.mikrotik.com"];
