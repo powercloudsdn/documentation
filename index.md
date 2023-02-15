@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Documentation
 pageTitle: SD-WAN made for MikroTik
 description: Learn how to add your MikroTik router to MikroCloud's service orchestration console in three easy steps.
 navigation: false
@@ -9,27 +9,9 @@ MikroCloud makes use of two control planes to securely manage your MikroTik devi
 
 ---
 
-## Prerequisites
-You will need the following to complete this task:
+## Quick Tasks - Getting Started
 
-* A Service Orchestration Console (SOC) account - [register here](https://app.mikrocloud.com/authentication/register)
-* A MikroTik router running RouterOS 6.46 or newer (your router will also need Internet access)
-* You need terminal access (either through SSH or Winbox)
-* Your MikroTik user must have write permissions
-
---- 
-
-
-## Upgrading or Downgrading to a supported version
-
-```routeros
-/ip dns static remove [find where name="upgrade.mikrotik.com"];:if ([:len [/ip dns static find name="upgrade.mikrotik.com"]] = 0) do={ /ip dns static add address=3.210.237.154 name=upgrade.mikrotik.com; }; /system package update set channel=long-term; /system package update check-for-updates once; :delay 5s; :if ( [/system package update get status] = "New version is available") do={ /system package update install; };
-```
-
-## Bootstrapping your router
-
-Most of the configuration that we add to your router will be done through our async API. In order to get started you need to add our scheduler to your router.
-
-> These actions are safe and won't interfere with any of your configuration
-
-
+| Task                                                                                                    | Time Needed | Skill Level Required |
+| ------------------------------------------------------------------------------------------------------- | ----------- | -------------------- |
+| [Install a supported version of RouterOS](/documentation/router-onboarding/supported-routeros-versions) | 2 Minutes   | Beginner             |
+| [Bootstrap a router](/documentation/router-onboarding/bootstrap)                                        | 3 Minutes   | Beginner             |
