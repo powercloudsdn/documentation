@@ -1,0 +1,119 @@
+---
+title: API Specification
+description: This document outlines our API design standards and conventions. We'll use the /pets collection for illustrative purposes.
+---
+
+This document details the API design standards and conventions our team must adhere to. The guiding principle here is simplicity, consistency, and leveraging HTTP methods for their semantic meaning.
+
+# HTTP Methods
+
+Each HTTP method describes a specific action:
+
+**GET**: Retrieve a resource or a collection of resources
+**POST**: Create a new resource
+**PATCH**: Partially update a resource
+**PUT**: Fully update a resource
+**DELETE**: Remove a resource
+
+## Collection Resource Example (/pets)
+
+**GET** `/pets`: Retrieves a list of all pets. Returns a JSON array of pet objects, each with a unique `id`. Example:
+
+```json
+[
+  {
+    "id": "8166cbcc-d2e0-4c65-b695-d3408825d48a",
+    "name": "Bella",
+    "breed": "Jack Russel",
+    "age": 2,
+    "color": "White and Brown"
+  },
+  {
+    "id": "8166cbcc-d2e0-4c65-b695-d3408825d48a",
+    "name": "Patch",
+    "breed": "Golden Retriever",
+    "age": 3,
+    "color": "Black and White"
+  }
+]
+```
+
+**POST** `/pets`: Creates a new pet. Consumes and returns the same payload structure as a GET request, excluding read-only fields like `id`. On successful creation, returns a `201` status code. Example request body:
+
+```json
+{
+  "name": "Cody",
+  "breed": "Boston Terrier",
+  "age": 1,
+  "color": "White and Black"
+}
+```
+
+## Single Resource Example (/pets/{id})
+
+**GET** `/pets/{id}`: Fetches a single pet by its `id`. Example response:
+
+```json
+{
+  "id": "8166cbcc-d2e0-4c65-b695-d3408825d48a",
+  "name": "Patch",
+  "breed": "Golden Retriever",
+  "age": 3,
+  "color": "Black and White"
+}
+```
+
+**PUT** `/pets/{id}`: Fully updates a pet by its `id`. This operation expects all fields to be present in the request. Example request body:
+
+```json
+{
+  "name": "Sparky",
+  "breed": "Labrador",
+  "age": 4,
+  "color": "black"
+}
+```
+
+**PATCH** `/pets/{id}`: Partially updates a pet by its `id`. This operation allows for partial data, updating only the provided fields. Example request body:
+
+```json
+{
+  "age": 4
+}
+```
+
+**DELETE** `/pets/{id}`: Deletes a pet by its `id`. This operation should return an empty body with a `204` status code.
+
+## Path and Payload Naming Conventions
+
+- Resources should never use numeric ID's - Only UUIDs should be used.
+- Paths should use kebab-case (lowercase with hyphens), such as `/pet-owners`.
+- Verbs should not be used in path names; the HTTP method describes the action.
+- In payloads, all keys must use snake_case, such as `hair_color`.
+- All API responses must be in JSON format.
+
+## Error Handling
+
+Validation errors should return a `422` status code.
+
+Errors should contain a `message` object. Example error response:
+
+```json
+{
+  "message": "The given data was invalid.",
+  "errors": {
+    "name": ["The name field is required."]
+  }
+}
+```
+
+
+## Date and Time Formatting
+Dates or timestamps should follow the format in the user's JWT `datetime_format` claim.
+If `datetime_format` is not available, default to `d M Y H:i:s`.
+Timestamps should use the timezone from the user's JWT `timezone` claim. If timezone is not present, use `UTC`.
+
+## Documentation
+* All endpoints must be documented according to OpenAPI v3 standards.
+
+By adhering to these guidelines, we ensure that our API remains consistent, intuitive, and aligned with common practices, making it user-friendly and maintainable.
